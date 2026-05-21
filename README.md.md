@@ -32,6 +32,8 @@ Key fields used in the dashboard include:
 
 The dataset appears to contain job posting information for data-related roles, including salary details, job type, location, posting platform, and benefit-related indicators.
 
+**Note:** The original dataset file is not included in this repository because it exceeds GitHub's 100 MB file size limit.
+
 ---
 
 ## Report Pages
