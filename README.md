@@ -15,8 +15,8 @@ The project now includes two dashboard versions:
 
 ## Dashboard Files
 
-- [`jobs_dashboard.pbix`](jobs_dashboard.pbix) – original Power BI dashboard file.
-- [`jobs_dashboard_v2.pbix`](jobs_dashboard_v2.pbix) – upgraded Power BI dashboard 2.0 file.
+- [Download Dashboard V1](jobs_dashboard_v1.pbix)
+- [Download Dashboard V2](jobs_dashboard_v2.pbix)
 
 ---
 
