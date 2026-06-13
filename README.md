@@ -218,7 +218,7 @@ This gives users a clearer view of which data roles pay the most depending on th
 ## How to Use the Dashboard
 
 1. Open the Power BI file in Power BI Desktop.
-2. Use `jobs_dashboard.pbix` for the original dashboard and drill-through report.
+2. Use `jobs_dashboard_v1.pbix` for the original dashboard and drill-through report.
 3. Use `jobs_dashboard_v2.pbix` for the upgraded Dashboard 2.0 version.
 4. Start from the main dashboard page to review the KPI cards and overall market trends.
 5. Use slicers to filter by job title or country.
@@ -285,7 +285,7 @@ This Power BI project demonstrates:
 ```text
 PowerBI Dashboards/
 │
-├── jobs_dashboard.pbix
+├── jobs_dashboard_v1.pbix
 ├── jobs_dashboard_v2.pbix
 ├── README.md
 │
